@@ -4,7 +4,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip0cean&show_icons=true&locale=en&layout=compact" alt="dip0cean" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 - 🌱 I’m currently learning **Spring Boot, Node.js**
 
 - 📝 I regulary write articles on [https://dip0cean.tistory.com/](https://dip0cean.tistory.com/)
