@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SeongHuen Sim!</h1>
 <h3 align="center">A back-end developer who is constantly striving to grow</h3>
 
-<p style="text-align: center;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip0cean&show_icons=true&locale=en&layout=compact" alt="dip0cean" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip0cean&show_icons=true&locale=en&layout=compact" alt="dip0cean" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
 - 🌱 I’m currently learning **Spring Boot, Node.js**
